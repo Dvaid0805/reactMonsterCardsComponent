@@ -1,4 +1,6 @@
 Hosting -> https://roaring-elf-7ebc8c.netlify.app/
+Websites with robots images -> https://robohash.org/
+API for names and emails -> https://jsonplaceholder.typicode.com/ 
 
 # Getting Started with Create React App
 
